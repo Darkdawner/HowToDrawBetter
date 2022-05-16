@@ -1,2 +1,6 @@
-# HowToDrawBetter
-This repo aims to help people draw diagrams more beautifully used in papers.
+# 程序员画图指南
+让我们欣赏并学习一下各种论文中美观的示意图吧！！！
+## 示意图基本原则
+1、示意图应当使用简洁的图示表达更多的信息，即在更低的空间复杂度下拥有更多的信息熵。
+
+2、示意图应当能够清晰地表达出作图者的意图，即信息量不应当被删减。
