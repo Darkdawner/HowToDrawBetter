@@ -38,6 +38,13 @@
 
 ****使用原则：对称+不留白***
 ### 三角形
+**Ex 4. FPN**
+
+<div align=center>
+<img src='https://github.com/Darkdawner/HowToDrawBetter/blob/main/imgs/FPN.png'>
+</div>
+
+
 ### 梯形
 ### U形
 ## 配色选择
