@@ -49,5 +49,12 @@
 ### U形
 ## 配色选择
 ### 莫兰迪色系
+莫兰迪色系来源于意大利著名画家乔治·莫兰迪（Giorgio Morandi）的画作，其主要特征为饱和度不高，透露出高级的舒适感和温柔感。因此采用莫兰迪色系当作图形的**底色**，会给予观看者更舒适的观感，由于其整体的饱和度较低，因此整体示意图的协调性也会较高。
+
+<div align=center>
+<img src='https://github.com/Darkdawner/HowToDrawBetter/blob/main/imgs/莫兰迪色系1.png' width="300px">
+<img src='https://github.com/Darkdawner/HowToDrawBetter/blob/main/imgs/莫兰迪色系2.png' height="300px">
+</div>
+
 ### 暖色系
 ### 对比色系
