@@ -56,5 +56,5 @@
 <img src='https://github.com/Darkdawner/HowToDrawBetter/blob/main/imgs/莫兰迪色系2.png' height="300px">
 </div>
 
-### 暖色系
-### 对比色系
+### 相近色系
+在画图中，采用相近的颜色进行填充，往往能有更好的协调性，不会给人强烈的不适感，对于不同的层级的框图，我们可以尝试采用递进的颜色进行填充，颜色由浅入深。
